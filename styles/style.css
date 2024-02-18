@@ -105,7 +105,8 @@ body{
 }
 
 .fotoPerfil {
-    width: 50%;
+    width: 30rem;
+    height: 30rem;
 }
 
 .rodape {
@@ -150,6 +151,11 @@ body{
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .fotoPerfil {
+        width: 25rem;
+        height:20rem;
     }
 
 }
